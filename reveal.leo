@@ -28,7 +28,6 @@
 <v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
-<v t="amd.20150920030003.1"><vh>IPython notebook 整合</vh></v>
 <v t="amd.20150919112710.1"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
@@ -37,11 +36,10 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
-<v t="leo.20151109002759.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="leo.20151109001510.1"><vh>@edit 2015cphww4.md</vh></v>
-<v t="leo.20151109001512.1"><vh>@edit 2015cphww5.md</vh></v>
-<v t="leo.20151109001514.1"><vh>@edit 2015cphww6.md</vh></v>
+<v t="leo.20151109003118.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151109003129.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20151109003134.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151109003141.1"><vh>@edit 2015cphww6.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -69,9 +67,209 @@
 </v>
 </v>
 </v>
+<v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
+<v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
+<v t="amd.20150915155634.3" a="E"><vh>head</vh>
+<v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
+<v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
+<v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
+</v>
+<v t="amd.20150915155634.8"><vh>body</vh>
+<v t="amd.20150915155634.9" a="E"><vh>div - reveal</vh>
+<v t="amd.20150915155634.10" a="E"><vh>div - slides</vh>
+<v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
+<v t="amd.20150915172241.1"><vh>h1 - 開放自評規劃</vh></v>
+<v t="amd.20150915155634.12"><vh>h2 - 實體輔助工具</vh></v>
+<v t="amd.20150915155634.13"><vh>h2 - 垂直有下屬頁</vh>
+<v t="amd.20150915155634.14"><vh>h2</vh></v>
+<v t="amd.20150915155634.15"><vh>h2</vh></v>
+<v t="amd.20150915155634.16"><vh>h2</vh></v>
+</v>
+<v t="amd.20150915173703.1"><vh>h2 - 內含程式碼頁面</vh>
+<v t="amd.20150915173703.2" a="E"><vh>pre</vh>
+<v t="amd.20150915173703.3"><vh>code</vh></v>
+</v>
+<v t="amd.20150915173703.4"><vh>p</vh></v>
+</v>
+<v t="amd.20150915155634.17"><vh>h2</vh></v>
+<v t="amd.20150915204710.1"><vh>內嵌 Vimeo 影片</vh></v>
+<v t="amd.20150915155634.18"><vh>h2</vh></v>
+<v t="amd.20150915155634.19"><vh>h2</vh></v>
+<v t="amd.20150915155634.20"><vh>markdown 頁面</vh></v>
+<v t="amd.20150915155634.21" a="E"><vh>h2</vh>
+<v t="amd.20150915160450.1"><vh>Fragement 主頁面</vh></v>
+<v t="amd.20150915155634.28" a="E"><vh>下屬頁面</vh>
+<v t="amd.20150915161424.1"><vh>h2</vh></v>
+<v t="amd.20150915155634.29"><vh>p</vh></v>
+<v t="amd.20150915155634.30"><vh>p</vh></v>
+<v t="amd.20150915155634.31"><vh>p</vh></v>
+<v t="amd.20150915155634.32"><vh>p</vh></v>
+<v t="amd.20150915155634.33"><vh>p</vh></v>
+<v t="amd.20150915155634.34"><vh>p</vh></v>
+<v t="amd.20150915155634.35"><vh>p</vh></v>
+</v>
+</v>
+<v t="amd.20150915155634.36"><vh>h2</vh></v>
+<v t="amd.20150915155634.37"><vh>p</vh>
+<v t="amd.20150915155634.38"><vh>a</vh></v>
+<v t="amd.20150915155634.39"><vh>a</vh></v>
+<v t="amd.20150915155634.40"><vh>a</vh></v>
+<v t="amd.20150915155634.41"><vh>a</vh></v>
+<v t="amd.20150915155634.42"><vh>a</vh></v>
+<v t="amd.20150915155634.43"><vh>a</vh></v>
+</v>
+<v t="amd.20150915155634.44"><vh>h2 - 更換主題</vh></v>
+<v t="amd.20150915155634.45" a="E"><vh>p</vh>
+<v t="amd.20150915155634.46"><vh>a</vh></v>
+<v t="amd.20150915155634.47"><vh>a</vh></v>
+<v t="amd.20150915155634.48"><vh>a</vh></v>
+<v t="amd.20150915155634.49"><vh>a</vh></v>
+<v t="amd.20150915155634.50"><vh>a</vh></v>
+<v t="amd.20150915155634.51"><vh>a</vh></v>
+<v t="amd.20150915155634.52"><vh>a</vh></v>
+<v t="amd.20150915155634.53"><vh>a</vh></v>
+<v t="amd.20150915155634.54"><vh>a</vh></v>
+<v t="amd.20150915155634.55"><vh>a</vh></v>
+<v t="amd.20150915155634.56"><vh>a</vh></v>
+</v>
+<v t="amd.20150915155634.57"><vh>h2</vh></v>
+<v t="amd.20150915155634.58"><vh>p</vh>
+<v t="amd.20150915155634.59"><vh>code</vh></v>
+</v>
+<v t="amd.20150915155634.60"><vh>a</vh></v>
+<v t="amd.20150915155634.61"><vh>h2</vh></v>
+<v t="amd.20150915155634.62" a="E"><vh>pre</vh>
+<v t="amd.20150915155634.63"><vh>code</vh></v>
+</v>
+<v t="amd.20150915155634.64"><vh>h2 - 背景填圖頁面</vh></v>
+<v t="amd.20150915155634.65" a="E"><vh>pre</vh>
+<v t="amd.20150915155634.66"><vh>code</vh></v>
+</v>
+<v t="amd.20150915155634.67" a="E"><vh>div</vh>
+<v t="amd.20150915155634.68"><vh>h2</vh></v>
+<v t="amd.20150915155634.69"><vh>pre</vh>
+<v t="amd.20150915155634.70"><vh>code</vh></v>
+</v>
+</v>
+<v t="amd.20150915155634.71"><vh>h2</vh></v>
+<v t="amd.20150915155634.72"><vh>h2</vh></v>
+<v t="amd.20150915155634.73"><vh>p</vh></v>
+<v t="amd.20150915155634.74"><vh>pre</vh>
+<v t="amd.20150915155634.75"><vh>code</vh></v>
+</v>
+<v t="amd.20150915155634.76"><vh>h2 - 背景轉換</vh></v>
+<v t="amd.20150915155634.77"><vh>p</vh></v>
+<v t="amd.20150915155634.78" a="E"><vh>pre</vh>
+<v t="amd.20150915155634.79"><vh>code</vh></v>
+</v>
+<v t="amd.20150915155634.80" a="E"><vh>h2 - 內含程式碼頁面</vh>
+<v t="amd.20150915155634.81" a="E"><vh>pre</vh>
+<v t="amd.20150915155634.82"><vh>code</vh></v>
+</v>
+<v t="amd.20150915155634.83"><vh>p</vh></v>
+</v>
+<v t="amd.20150915155634.85"><vh>h2</vh></v>
+<v t="amd.20150915155634.86" a="E"><vh>ul</vh>
+<v t="amd.20150915155634.87"><vh>li</vh></v>
+<v t="amd.20150915155634.88"><vh>li</vh></v>
+<v t="amd.20150915155634.89"><vh>li</vh></v>
+<v t="amd.20150915155634.90"><vh>li</vh></v>
+</v>
+<v t="amd.20150915155634.91"><vh>h2</vh></v>
+<v t="amd.20150915155634.92"><vh>ol</vh>
+<v t="amd.20150915155634.93"><vh>li</vh></v>
+<v t="amd.20150915155634.94"><vh>li</vh></v>
+<v t="amd.20150915155634.95"><vh>li</vh></v>
+</v>
+<v t="amd.20150915155634.96"><vh>h2 - 表格頁面</vh></v>
+<v t="amd.20150915155634.97" a="E"><vh>table</vh>
+<v t="amd.20150915155634.98"><vh>thead</vh>
+<v t="amd.20150915155634.99"><vh>tr</vh>
+<v t="amd.20150915155634.100"><vh>th</vh></v>
+<v t="amd.20150915155634.101"><vh>th</vh></v>
+<v t="amd.20150915155634.102"><vh>th</vh></v>
+</v>
+</v>
+<v t="amd.20150915155634.103"><vh>tbody</vh>
+<v t="amd.20150915155634.104"><vh>tr</vh>
+<v t="amd.20150915155634.105"><vh>td</vh></v>
+<v t="amd.20150915155634.106"><vh>td</vh></v>
+<v t="amd.20150915155634.107"><vh>td</vh></v>
+</v>
+<v t="amd.20150915155634.108"><vh>tr</vh>
+<v t="amd.20150915155634.109"><vh>td</vh></v>
+<v t="amd.20150915155634.110"><vh>td</vh></v>
+<v t="amd.20150915155634.111"><vh>td</vh></v>
+</v>
+<v t="amd.20150915155634.112"><vh>tr</vh>
+<v t="amd.20150915155634.113"><vh>td</vh></v>
+<v t="amd.20150915155634.114"><vh>td</vh></v>
+<v t="amd.20150915155634.115"><vh>td</vh></v>
+</v>
+</v>
+</v>
+<v t="amd.20150915155634.116"><vh>h2</vh></v>
+<v t="amd.20150915155634.117"><vh>p</vh>
+<v t="amd.20150915155634.118"><vh>q</vh></v>
+</v>
+<v t="amd.20150915155634.119"><vh>blockquote</vh></v>
+<v t="amd.20150915155634.120"><vh>h2</vh></v>
+<v t="amd.20150915155634.121"><vh>p</vh>
+<v t="amd.20150915155634.122"><vh>a</vh></v>
+</v>
+<v t="amd.20150915155634.123"><vh>h2</vh></v>
+<v t="amd.20150915155634.124" a="E"><vh>p</vh>
+<v t="amd.20150915155634.125"><vh>a</vh></v>
+</v>
+<v t="amd.20150915155634.126"><vh>p</vh>
+<v t="amd.20150915155634.127"><vh>em</vh></v>
+</v>
+<v t="amd.20150915155634.128"><vh>h2</vh></v>
+<v t="amd.20150915155634.129"><vh>p</vh>
+<v t="amd.20150915155634.130"><vh>a</vh></v>
+</v>
+<v t="amd.20150915155634.131"><vh>iframe</vh></v>
+<v t="amd.20150915155634.132"><vh>h2</vh></v>
+<v t="amd.20150915155634.133" a="E"><vh>p</vh>
+<v t="amd.20150915155634.134"><vh>code</vh></v>
+<v t="amd.20150915155634.135"><vh>code</vh></v>
+</v>
+<v t="amd.20150915155634.136"><vh>h2</vh></v>
+<v t="amd.20150915155634.137"><vh>p</vh>
+<v t="amd.20150915155634.138"><vh>code</vh></v>
+</v>
+<v t="amd.20150915155634.139"><vh>pre</vh>
+<v t="amd.20150915155634.140"><vh>code</vh></v>
+</v>
+<v t="amd.20150915155634.141"><vh>h2 按下 b 或 . 可以 black 畫面</vh></v>
+<v t="amd.20150915155634.142"><vh>p</vh></v>
+<v t="amd.20150915155634.143" a="E"><vh>h2 unordered list 頁面</vh>
+<v t="amd.20150915155634.148"><vh>li</vh>
+<v t="amd.20150915155634.149"><vh>a</vh></v>
+</v>
+<v t="amd.20150915155634.150"><vh>li</vh>
+<v t="amd.20150915155634.151"><vh>a</vh></v>
+</v>
+<v t="amd.20150915155634.152"><vh>li</vh>
+<v t="amd.20150915155634.153"><vh>a</vh></v>
+</v>
+<v t="amd.20150915155634.146"><vh>li</vh>
+<v t="amd.20150915155634.147"><vh>a</vh></v>
+</v>
+<v t="amd.20150915155634.145"><vh>li</vh></v>
+</v>
+<v t="amd.20150915155634.154"><vh>結束單頁</vh></v>
+</v>
+</v>
+<v t="amd.20150915155634.158"><vh>script</vh></v>
+<v t="amd.20150915155634.159"><vh>script</vh></v>
+<v t="amd.20150915155634.160"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
-<v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
+<v t="ibm.20150918175403.3"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
 <v t="ibm.20150918175403.5" a="E"><vh>div class="reveal"</vh>
 <v t="ibm.20150918175403.6" a="E"><vh>div class="slides"</vh>
@@ -84,81 +282,66 @@
 </v>
 </v>
 <v t="ibm.20150918175403.10"><vh>script</vh></v>
-<v t="leo.20151011200539.1"><vh>@clean simplest.html</vh>
-<v t="leo.20151011200539.2"><vh>檔案說明</vh></v>
-<v t="leo.20151011200539.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151011200539.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151011200539.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151011200539.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151011200539.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151011200539.8"><vh>作業任務一</vh></v>
-<v t="leo.20151011200539.9"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="leo.20151011200539.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
+<v t="leo.20151109003155.1"><vh>@clean simplest.html</vh>
+<v t="leo.20151109003155.2"><vh>檔案說明</vh></v>
+<v t="leo.20151109003155.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151109003155.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151109003155.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151109003155.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151109003155.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151109003155.8"><vh>作業任務一</vh></v>
+<v t="leo.20151109003155.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151109003155.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
-<v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
-<v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
-<v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
-<v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
-<v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
-<v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
-<v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
+<v t="leo.20151109003203.1"><vh>@clean simplest4.html</vh>
+<v t="leo.20151109003203.2"><vh>檔案說明</vh></v>
+<v t="leo.20151109003203.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151109003203.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151109003203.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151109003203.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151109003203.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151109003203.8"><vh>作業任務一</vh></v>
+<v t="leo.20151109003203.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="amd.20150915211351.15"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="leo.20151011200758.1"><vh>@clean simplest4.html</vh>
-<v t="leo.20151011200758.2"><vh>檔案說明</vh></v>
-<v t="leo.20151011200758.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151011200758.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151011200758.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151011200758.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151011200758.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151108152838.1"><vh>作業任務一</vh></v>
-<v t="leo.20151011200758.9"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="leo.20151011200758.10"><vh>script</vh></v>
+<v t="leo.20151109003203.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151108170501.1"><vh>@clean simplest5.html</vh>
-<v t="leo.20151108170501.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108170501.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108170501.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108170501.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108170501.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151108170501.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151108170501.8"><vh>作業任務一</vh></v>
-<v t="leo.20151108170501.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151109003209.1"><vh>@clean simplest5.html</vh>
+<v t="leo.20151109003209.2"><vh>檔案說明</vh></v>
+<v t="leo.20151109003209.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151109003209.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151109003209.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151109003209.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151109003209.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151109003209.8"><vh>作業任務一</vh></v>
+<v t="leo.20151109003209.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="leo.20151108170501.10"><vh>script</vh></v>
+<v t="leo.20151109003209.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151108231811.1"><vh>@clean simplest6.html</vh>
-<v t="leo.20151108231811.2"><vh>檔案說明</vh></v>
-<v t="leo.20151108231811.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151108231811.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151108231811.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151108231811.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151108231811.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151108231811.8"><vh>作業任務一</vh></v>
-<v t="leo.20151108231811.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151109003215.1"><vh>@clean simplest6.html</vh>
+<v t="leo.20151109003215.2"><vh>檔案說明</vh></v>
+<v t="leo.20151109003215.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151109003215.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151109003215.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151109003215.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151109003215.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151109003215.8"><vh>作業任務一</vh></v>
+<v t="leo.20151109003215.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="leo.20151108231811.10"><vh>script</vh></v>
+<v t="leo.20151109003215.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -354,42 +537,10 @@
 </v>
 </v>
 </v>
-<v t="leo.20151109000854.1"><vh>Recovered Nodes</vh>
-<v t="leo.20151109000854.2"><vh>Recovered node "檔案說明" from @clean cpw1.html</vh>
-<v t="leo.20151109000854.3"><vh>old:檔案說明</vh></v>
-<v t="leo.20151109000854.4"><vh>new:檔案說明</vh></v>
-</v>
-<v t="leo.20151109000854.5"><vh>Recovered node "html 標註" from @clean cpw1.html</vh>
-<v t="leo.20151109000854.6"><vh>old:html 標註</vh></v>
-<v t="leo.20151109000854.7"><vh>new:html 標註</vh></v>
-</v>
-<v t="leo.20151109000854.8"><vh>Recovered node "body 標註" from @clean cpw1.html</vh>
-<v t="leo.20151109000854.9"><vh>old:body 標註</vh></v>
-<v t="leo.20151109000854.10"><vh>new:body 標註</vh></v>
-</v>
-<v t="leo.20151109000854.11"><vh>Recovered node "div class="reveal"" from @clean cpw1.html</vh>
-<v t="leo.20151109000854.12"><vh>old:div class="reveal"</vh></v>
-<v t="leo.20151109000854.13"><vh>new:div class="reveal"</vh></v>
-</v>
-<v t="leo.20151109000854.14"><vh>Recovered node "div class="slides"" from @clean cpw1.html</vh>
-<v t="leo.20151109000854.15"><vh>old:div class="slides"</vh></v>
-<v t="leo.20151109000854.16"><vh>new:div class="slides"</vh></v>
-</v>
-<v t="leo.20151109000854.17"><vh>Recovered node "有關我的作業" from @clean cpw1.html</vh>
-<v t="leo.20151109000854.18"><vh>old:有關我的作業</vh></v>
-<v t="leo.20151109000854.19"><vh>new:有關我的作業</vh></v>
-</v>
-<v t="leo.20151109000854.20"><vh>Recovered node "作業任務一" from @clean cpw1.html</vh>
-<v t="leo.20151109000854.21"><vh>old:作業任務一</vh></v>
-<v t="leo.20151109000854.22"><vh>new:作業任務一</vh></v>
-</v>
-<v t="leo.20151109000854.23"><vh>Recovered node "第3張投影片" from @clean cpw1.html</vh>
-<v t="leo.20151109000854.24"><vh>old:第3張投影片</vh></v>
-<v t="leo.20151109000854.25"><vh>new:第3張投影片</vh></v>
-</v>
-<v t="leo.20151109000854.26"><vh>Recovered node "script" from @clean cpw1.html</vh>
-<v t="leo.20151109000854.27"><vh>old:script</vh></v>
-<v t="leo.20151109000854.28"><vh>new:script</vh></v>
+<v t="leo.20151109003026.1"><vh>Recovered Nodes</vh>
+<v t="leo.20151109003026.2"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
+<v t="leo.20151109003026.3"><vh>old:html 標註</vh></v>
+<v t="leo.20151109003026.4"><vh>new:html 標註</vh></v>
 </v>
 </v>
 </vnodes>
@@ -556,6 +707,639 @@ vertical: body pane on the botton</t>
 此後將以 v31ref.html 中的語法為主
 
 </t>
+<t tx="amd.20150915155634.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="amd.20150915155634.10">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="amd.20150915155634.100">
+&lt;th&gt;Item&lt;/th&gt;
+</t>
+<t tx="amd.20150915155634.101">&lt;th&gt;Value&lt;/th&gt;
+								</t>
+<t tx="amd.20150915155634.102">&lt;th&gt;Quantity&lt;/th&gt;
+							</t>
+<t tx="amd.20150915155634.103">&lt;tbody&gt;
+@others
+&lt;/tbody&gt;
+					</t>
+<t tx="amd.20150915155634.104">
+&lt;tr&gt;
+@others
+&lt;/tr&gt;
+</t>
+<t tx="amd.20150915155634.105">
+&lt;td&gt;Apples&lt;/td&gt;
+</t>
+<t tx="amd.20150915155634.106">&lt;td&gt;$1&lt;/td&gt;
+								</t>
+<t tx="amd.20150915155634.107">&lt;td&gt;7&lt;/td&gt;
+							</t>
+<t tx="amd.20150915155634.108">&lt;tr&gt;
+@others
+&lt;/tr&gt;
+							</t>
+<t tx="amd.20150915155634.109">
+&lt;td&gt;Lemonade&lt;/td&gt;
+</t>
+<t tx="amd.20150915155634.11">&lt;section id="fragments"&gt;
+        &lt;h1&gt;課程說明&lt;/h1&gt;
+    &lt;h3 class="fragment"&gt;課程名稱: 電腦輔助設計實習&lt;/h3&gt;
+    &lt;h3 class="fragment"&gt;開放 主動 自學與自評&lt;/h3&gt;
+    &lt;h3 class="fragment"&gt;使用 Solvespace 與 Creo 2.0&lt;/h3&gt;
+    &lt;h3 class="fragment"&gt;每週都有作業, 由各學員自評分數&lt;/h3&gt;
+&lt;/section&gt;
+	</t>
+<t tx="amd.20150915155634.110">&lt;td&gt;$2&lt;/td&gt;
+								</t>
+<t tx="amd.20150915155634.111">&lt;td&gt;18&lt;/td&gt;
+							</t>
+<t tx="amd.20150915155634.112">&lt;tr&gt;
+@others
+&lt;/tr&gt;
+						</t>
+<t tx="amd.20150915155634.113">
+&lt;td&gt;Bread&lt;/td&gt;
+</t>
+<t tx="amd.20150915155634.114">&lt;td&gt;$3&lt;/td&gt;
+								</t>
+<t tx="amd.20150915155634.115">&lt;td&gt;2&lt;/td&gt;
+							</t>
+<t tx="amd.20150915155634.116">&lt;section&gt;
+&lt;h2&gt;Clever Quotes&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.117">&lt;p&gt;
+@others
+&lt;/p&gt;
+					</t>
+<t tx="amd.20150915155634.118">
+These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
+&amp;ldquo;The nice thing about standards is that there are so many to choose from&amp;rdquo;&lt;/q&gt; and block:
+</t>
+<t tx="amd.20150915155634.119">&lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
+						&amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
+						reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
+&lt;/blockquote&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915155634.12">&lt;section id="fragments"&gt;
+    &lt;h2&gt;實體輔助工具&lt;/h2&gt;
+    &lt;h3 class="fragment"&gt;電動折疊自行車&lt;/h3&gt;
+    &lt;h3 class="fragment"&gt;HP 伺服器&lt;/h3&gt;
+    &lt;h3 class="fragment"&gt;3D 印表機零件&lt;/h3&gt;
+    &lt;h3 class="fragment"&gt;其他需要採購工具?&lt;/h3&gt;
+    &lt;h3 class="fragment"&gt;先模擬分析, 再實際驗證?&lt;/h3&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915155634.120">&lt;section&gt;
+&lt;h2&gt;Intergalactic Interconnections&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.121">&lt;p&gt;
+@others
+&lt;/p&gt;
+&lt;/section&gt;
+
+				
+					</t>
+<t tx="amd.20150915155634.122">
+You can link between slides internally,
+&lt;a href="#/2/3"&gt;like this&lt;/a&gt;.
+</t>
+<t tx="amd.20150915155634.123">&lt;section&gt;
+&lt;h2&gt;Speaker View&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.124">&lt;p&gt;
+@others
+&lt;/p&gt;
+					</t>
+<t tx="amd.20150915155634.125">There's a &lt;a href="https://github.com/hakimel/reveal.js#speaker-notes"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.</t>
+<t tx="amd.20150915155634.126">&lt;p&gt;
+@others
+&lt;/p&gt;
+    &lt;aside class="notes"&gt;
+    Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
+    &lt;/aside&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915155634.127">Press the &lt;em&gt;S&lt;/em&gt; key to try it out.</t>
+<t tx="amd.20150915155634.128">&lt;section&gt;
+&lt;h2&gt;Export to PDF&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.129">&lt;p&gt;
+@others
+&lt;/p&gt;
+					</t>
+<t tx="amd.20150915155634.13">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						</t>
+<t tx="amd.20150915155634.130">Presentations can be &lt;a href="https://github.com/hakimel/reveal.js#pdf-export"&gt;exported to PDF&lt;/a&gt;, here's an example:</t>
+<t tx="amd.20150915155634.131">&lt;iframe src="//www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915155634.132">&lt;section&gt;
+&lt;h2&gt;Global State&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.133">&lt;p&gt;
+@others
+&lt;/p&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915155634.134">Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and </t>
+<t tx="amd.20150915155634.135">&lt;code&gt;"something"&lt;/code&gt;
+will be added as a class to the document element when the slide is open. This lets you
+apply broader style changes, like switching the page background.
+					</t>
+<t tx="amd.20150915155634.136">&lt;section data-state="customevent"&gt;
+&lt;h2&gt;State Events&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.137">&lt;p&gt;
+@others
+&lt;/p&gt;
+					</t>
+<t tx="amd.20150915155634.138">
+Additionally custom events can be triggered on a per slide basis by binding to the &lt;code&gt;data-state&lt;/code&gt; name.
+</t>
+<t tx="amd.20150915155634.139">&lt;pre&gt;
+@others
+&lt;/pre&gt;
+&lt;/section&gt;
+
+
+					</t>
+<t tx="amd.20150915155634.14">&lt;section&gt;
+    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
+    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
+    &lt;p&gt;
+    Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.
+    &lt;/p&gt;
+    &lt;br&gt;
+    &lt;a href="#" class="navigate-down"&gt;
+    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
+    &lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="amd.20150915155634.140">&lt;code class="javascript" data-trim contenteditable style="font-size: 18px;"&gt;
+Reveal.addEventListener( 'customevent', function() {
+	console.log( '"customevent" has fired' );
+} );
+					&lt;/code&gt;</t>
+<t tx="amd.20150915155634.141">&lt;section&gt;
+&lt;h2&gt;Take a Moment&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.142">&lt;p&gt;
+Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
+&lt;/p&gt;
+&lt;/section&gt;
+
+				
+					</t>
+<t tx="amd.20150915155634.143">&lt;section&gt;
+&lt;h2&gt;Much more&lt;/h2&gt;
+    &lt;ul&gt;
+    @others
+    &lt;/ul&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915155634.145">&lt;li&gt;Right-to-left support&lt;/li&gt;
+</t>
+<t tx="amd.20150915155634.146">&lt;li&gt;
+@others
+&lt;/li&gt;
+						</t>
+<t tx="amd.20150915155634.147">&lt;a href="https://github.com/hakimel/reveal.js#api"&gt;Extensive JavaScript API&lt;/a&gt;</t>
+<t tx="amd.20150915155634.148">&lt;li&gt;
+@others
+&lt;/li&gt;
+						</t>
+<t tx="amd.20150915155634.149">&lt;a href="https://github.com/hakimel/reveal.js#auto-sliding"&gt;Auto-progression&lt;/a&gt;</t>
+<t tx="amd.20150915155634.15">&lt;section&gt;
+    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
+    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+&lt;/section&gt;
+						</t>
+<t tx="amd.20150915155634.150">&lt;li&gt;
+@others
+&lt;/li&gt;
+						</t>
+<t tx="amd.20150915155634.151">&lt;a href="https://github.com/hakimel/reveal.js#parallax-background"&gt;Parallax backgrounds&lt;/a&gt;</t>
+<t tx="amd.20150915155634.152">&lt;li&gt;
+@others
+&lt;/li&gt;
+					</t>
+<t tx="amd.20150915155634.153">&lt;a href="https://github.com/hakimel/reveal.js#keyboard-bindings"&gt;Custom keyboard bindings&lt;/a&gt;</t>
+<t tx="amd.20150915155634.154">&lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;section&gt;
+					</t>
+<t tx="amd.20150915155634.158">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+		</t>
+<t tx="amd.20150915155634.159">&lt;script src="js/reveal.js"&gt;&lt;/script&gt;
+
+		</t>
+<t tx="amd.20150915155634.16">&lt;section&gt;
+    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
+    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
+    &lt;br&gt;
+    &lt;a href="#/2"&gt;
+    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);"&gt;
+    &lt;/a&gt;
+&lt;/section&gt;
+						</t>
+<t tx="amd.20150915155634.160">&lt;script&gt;
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		&lt;/script&gt;
+
+	</t>
+<t tx="amd.20150915155634.17">&lt;section&gt;
+    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;p&gt;
+    Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="http://slides.com" target="_blank"&gt;http://slides.com&lt;/a&gt;.
+    &lt;/p&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915155634.18">&lt;section&gt;
+    &lt;h2&gt;Point of View&lt;/h2&gt;
+    &lt;p&gt;
+    Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
+    &lt;/p&gt;
+    &lt;p&gt;
+    Hold down alt and click on any element to zoom in on it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Alt + click anywhere to zoom back out.
+    &lt;/p&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915155634.19">&lt;section&gt;
+    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
+    &lt;p&gt;
+    Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
+    &lt;/p&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915155634.2">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+@others
+&lt;/html&gt;</t>
+<t tx="amd.20150915155634.20">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+        ## Markdown support
+        
+        Write content using inline or external Markdown.
+        Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
+        
+            ```
+            &lt;section data-markdown&gt;
+              ## Markdown support
+            
+              Write content using inline or external Markdown.
+              Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
+            &lt;/section&gt;
+            ```
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						</t>
+<t tx="amd.20150915155634.21">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+						</t>
+<t tx="amd.20150915155634.28">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						</t>
+<t tx="amd.20150915155634.29">&lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
+						</t>
+<t tx="amd.20150915155634.3">&lt;head&gt;
+@others
+&lt;/head&gt;
+
+</t>
+<t tx="amd.20150915155634.30">&lt;p class="fragment grow"&gt;grow&lt;/p&gt;
+						</t>
+<t tx="amd.20150915155634.31">&lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
+						</t>
+<t tx="amd.20150915155634.32">&lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
+						</t>
+<t tx="amd.20150915155634.33">&lt;p class="fragment current-visible"&gt;current-visible&lt;/p&gt;
+						</t>
+<t tx="amd.20150915155634.34">&lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
+						</t>
+<t tx="amd.20150915155634.35">&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
+
+
+				
+					</t>
+<t tx="amd.20150915155634.36">&lt;section id="transitions"&gt;
+&lt;h2&gt;Transition Styles&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.37">&lt;p&gt;
+@others
+&lt;/p&gt;
+				&lt;/section&gt;
+
+
+					</t>
+<t tx="amd.20150915155634.38">
+You can select from different transitions, like: &lt;br&gt;
+&lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
+</t>
+<t tx="amd.20150915155634.39">&lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
+						</t>
+<t tx="amd.20150915155634.4">&lt;meta charset="utf-8"&gt;
+
+&lt;title&gt;2015 Fall 電腦輔助設計實習 甲班&lt;/title&gt;
+
+</t>
+<t tx="amd.20150915155634.40">&lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
+						</t>
+<t tx="amd.20150915155634.41">&lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
+						</t>
+<t tx="amd.20150915155634.42">&lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
+						</t>
+<t tx="amd.20150915155634.43">&lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
+					</t>
+<t tx="amd.20150915155634.44">&lt;section id="themes"&gt;
+&lt;h2&gt;Themes&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.45">&lt;p&gt;
+@others
+&lt;/p&gt;
+				&lt;/section&gt;
+
+				&lt;section&gt;
+					&lt;section data-background="#dddddd"&gt;
+						</t>
+<t tx="amd.20150915155634.46">
+reveal.js comes with a few themes built in: &lt;br&gt;
+&lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
+&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
+</t>
+<t tx="amd.20150915155634.47">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
+						</t>
+<t tx="amd.20150915155634.48">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
+						</t>
+<t tx="amd.20150915155634.49">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
+						</t>
+<t tx="amd.20150915155634.5">&lt;meta name="description" content="2015Fall CADP"&gt;
+&lt;meta name="author" content="KMOL"&gt;
+&lt;meta name="apple-mobile-web-app-capable" content="yes" /&gt;
+&lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" /&gt;
+		</t>
+<t tx="amd.20150915155634.50">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
+						</t>
+<t tx="amd.20150915155634.51">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; </t>
+<t tx="amd.20150915155634.52">&lt;br&gt;
+						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
+						</t>
+<t tx="amd.20150915155634.53">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
+						</t>
+<t tx="amd.20150915155634.54">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
+						</t>
+<t tx="amd.20150915155634.55">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
+						</t>
+<t tx="amd.20150915155634.56">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
+					</t>
+<t tx="amd.20150915155634.57">&lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
+						</t>
+<t tx="amd.20150915155634.58">&lt;p&gt;
+@others
+&lt;/p&gt;
+						</t>
+<t tx="amd.20150915155634.59">
+Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the background color. All CSS color formats are supported.
+</t>
+<t tx="amd.20150915155634.60">&lt;a href="#" class="navigate-down"&gt;
+							&lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
+						&lt;/a&gt;
+					&lt;/section&gt;
+					&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png"&gt;
+						</t>
+<t tx="amd.20150915155634.61">&lt;h2&gt;Image Backgrounds&lt;/h2&gt;
+						</t>
+<t tx="amd.20150915155634.62">&lt;pre&gt;
+@others
+&lt;/pre&gt;
+&lt;/section&gt;
+						</t>
+<t tx="amd.20150915155634.63">&lt;code&gt;&amp;lt;section data-background="image.png"&amp;gt;&lt;/code&gt;</t>
+<t tx="amd.20150915155634.64">&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
+&lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
+						</t>
+<t tx="amd.20150915155634.65">&lt;pre&gt;
+@others
+&lt;/pre&gt;
+&lt;/section&gt;
+&lt;section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-color="#000000"&gt;
+						</t>
+<t tx="amd.20150915155634.66">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;
+&lt;/code&gt;</t>
+<t tx="amd.20150915155634.67">&lt;div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;"&gt;
+@others
+&lt;/div&gt;
+&lt;/section&gt;
+
+						</t>
+<t tx="amd.20150915155634.68">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
+&lt;h2&gt;Video Backgrounds&lt;/h2&gt;
+</t>
+<t tx="amd.20150915155634.69">&lt;pre&gt;
+@others
+&lt;/pre&gt;
+						</t>
+<t tx="amd.20150915155634.7">&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"&gt;
+
+    &lt;link rel="stylesheet" href="css/reveal.css"&gt;
+    &lt;link rel="stylesheet" href="css/theme/black.css" id="theme"&gt;
+
+    &lt;!-- Code syntax highlighting --&gt;
+    &lt;link rel="stylesheet" href="lib/css/zenburn.css"&gt;
+
+    &lt;!-- Printing and PDF exports --&gt;
+    &lt;script&gt;
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    &lt;/script&gt;
+
+    &lt;!--[if lt IE 9]&gt;
+    &lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+    &lt;![endif]--&gt;
+	</t>
+<t tx="amd.20150915155634.70">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background-video="video.mp4,video.webm"&amp;gt;&lt;/code&gt;</t>
+<t tx="amd.20150915155634.71">&lt;h2&gt;... and GIFs!&lt;/h2&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915155634.72">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+&lt;h2&gt;Background Transitions&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.73">&lt;p&gt;
+						Different background transitions are available via the backgroundTransition option. This one's called "zoom".
+					&lt;/p&gt;
+					</t>
+<t tx="amd.20150915155634.74">&lt;pre&gt;
+@others
+&lt;/pre&gt;
+				&lt;/section&gt;
+
+				&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+					</t>
+<t tx="amd.20150915155634.75">&lt;code&gt;Reveal.configure({ backgroundTransition: 'zoom' })&lt;/code&gt;</t>
+<t tx="amd.20150915155634.76">&lt;h2&gt;Background Transitions&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.77">&lt;p&gt;
+You can override background transitions per-slide.
+&lt;/p&gt;
+					</t>
+<t tx="amd.20150915155634.78">&lt;pre&gt;
+@others
+&lt;/pre&gt;
+&lt;/section&gt;
+
+
+					</t>
+<t tx="amd.20150915155634.79">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background-transition="zoom"&amp;gt;&lt;/code&gt;</t>
+<t tx="amd.20150915155634.8">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="amd.20150915155634.80">&lt;section&gt;
+    &lt;h2&gt;Pretty Code&lt;/h2&gt;
+    @others
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915155634.81">&lt;pre&gt;
+    &lt;code data-trim contenteditable&gt;
+    @others
+    &lt;/code&gt;
+&lt;/pre&gt;
+					</t>
+<t tx="amd.20150915155634.82">function linkify( selector ) {
+  if( supports3DTransforms ) {
+
+    var nodes = document.querySelectorAll( selector );
+
+    for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
+      var node = nodes[i];
+
+      if( !node.className ) {
+        node.className += ' roll';
+      }
+    }
+  }
+}
+</t>
+<t tx="amd.20150915155634.83">&lt;p&gt;
+Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.
+&lt;/p&gt;
+
+
+
+					</t>
+<t tx="amd.20150915155634.85">&lt;section&gt;
+&lt;h2&gt;Marvelous List&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.86">&lt;ul&gt;
+@others
+&lt;/ul&gt;
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915155634.87">
+&lt;li&gt;No order here&lt;/li&gt;
+</t>
+<t tx="amd.20150915155634.88">&lt;li&gt;Or here&lt;/li&gt;
+						</t>
+<t tx="amd.20150915155634.89">&lt;li&gt;Or here&lt;/li&gt;
+						</t>
+<t tx="amd.20150915155634.9">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="amd.20150915155634.90">&lt;li&gt;Or here&lt;/li&gt;
+					</t>
+<t tx="amd.20150915155634.91">&lt;section&gt;
+&lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.92">&lt;ol&gt;
+@others
+&lt;/ol&gt;
+&lt;/section&gt;
+
+					</t>
+<t tx="amd.20150915155634.93">
+&lt;li&gt;One is smaller than...&lt;/li&gt;
+</t>
+<t tx="amd.20150915155634.94">&lt;li&gt;Two is smaller than...&lt;/li&gt;
+						</t>
+<t tx="amd.20150915155634.95">&lt;li&gt;Three!&lt;/li&gt;
+					</t>
+<t tx="amd.20150915155634.96">&lt;section&gt;
+&lt;h2&gt;Tabular Tables&lt;/h2&gt;
+					</t>
+<t tx="amd.20150915155634.97">&lt;table&gt;
+@others
+&lt;/table&gt;
+&lt;/section&gt;
+
+
+					</t>
+<t tx="amd.20150915155634.98">&lt;thead&gt;
+@others
+&lt;/thead&gt;
+</t>
+<t tx="amd.20150915155634.99">
+&lt;tr&gt;
+@others
+&lt;/tr&gt;
+</t>
+<t tx="amd.20150915160450.1">&lt;section id="fragments"&gt;
+&lt;h2&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Hit the next arrow...&lt;/p&gt;
+&lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
+&lt;p&gt;
+    &lt;span class="fragment"&gt;... a&lt;/span&gt; 
+    &lt;span class="fragment"&gt;fragmented&lt;/span&gt;
+    &lt;span class="fragment"&gt;slide.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;aside class="notes"&gt;
+This slide has fragments which are also stepped through in the notes window.
+&lt;/aside&gt;
+&lt;/section&gt;</t>
+<t tx="amd.20150915161424.1">&lt;h2&gt;Fragment Styles&lt;/h2&gt;</t>
 <t tx="amd.20150915170743.1">@language xml
 @tabwidth -4
 @others
@@ -1190,78 +1974,52 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915170743.99">
 &lt;td&gt;Apples&lt;/td&gt;
 </t>
-<t tx="amd.20150915211341.1">@language xml
-@tabwidth -4
-@others
+<t tx="amd.20150915172241.1">&lt;section id="fragments"&gt;
+        &lt;h1&gt;自評說明&lt;/h1&gt;
+    &lt;h3 class="fragment"&gt;時效內的 Github 倉儲內容&lt;/h3&gt;
+    &lt;h3 class="fragment"&gt;完全開放的學員作業內容&lt;/h3&gt;
+    &lt;h3 class="fragment"&gt;彼此間可以互相學習&lt;/h3&gt;
+    &lt;h3 class="fragment"&gt;存證內容: Github, copy.com, Vimeo 等&lt;/h3&gt;
+    &lt;h3 class="fragment"&gt;要怎麼收穫, 先怎麼栽!&lt;/h3&gt;
+&lt;/section&gt;
+	</t>
+<t tx="amd.20150915173703.1">&lt;section&gt;
+    &lt;h2&gt;Pretty Code&lt;/h2&gt;
+    @others
+&lt;/section&gt;
+					</t>
+<t tx="amd.20150915173703.2">&lt;pre&gt;
+    &lt;code data-trim contenteditable&gt;
+    @others
+    &lt;/code&gt;
+&lt;/pre&gt;
+					</t>
+<t tx="amd.20150915173703.3">function linkify( selector ) {
+  if( supports3DTransforms ) {
 
+    var nodes = document.querySelectorAll( selector );
+
+    for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
+      var node = nodes[i];
+
+      if( !node.className ) {
+        node.className += ' roll';
+      }
+    }
+  }
+}
 </t>
-<t tx="amd.20150915211351.1">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="amd.20150915211351.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="amd.20150915211351.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="amd.20150915211351.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="amd.20150915211351.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="amd.20150917085040.1">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
+<t tx="amd.20150915173703.4">&lt;p&gt;
+Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.
+&lt;/p&gt;
+
+
+
+					</t>
+<t tx="amd.20150915204710.1">&lt;section&gt;
+&lt;h1&gt;嵌入 Vimeo 影片&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="amd.20150919102209.1">本專案
 
 利用 Jupyter 產生 IPython notebook, 然後整合入 pelican 網誌
@@ -1364,13 +2122,6 @@ import os
 os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3
 ''')
 g.es("pelican 執行完畢")</t>
-<t tx="amd.20150920030003.1">必須使用 IPython 3.2.1
-
-sudo pip3 install IPython[notebook]==3.2.1
-
-因為 IPython 4.0 已經將 IPython notebook 分出去改名為 Jupyter
-
-之後可能再測試 liquid_tags 是否能與 Jupyter 相容</t>
 <t tx="ibm.20150918175403.1">@language xml
 @tabwidth -4
 @others
@@ -1383,8 +2134,7 @@ sudo pip3 install IPython[notebook]==3.2.1
     Reveal.initialize({
     });
 &lt;/script&gt;
-	
-</t>
+	</t>
 <t tx="ibm.20150918175403.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
@@ -1405,8 +2155,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
-&lt;/html&gt;
-</t>
+&lt;/html&gt;</t>
 <t tx="ibm.20150918175403.4">&lt;body&gt;
 @others
 &lt;/body&gt;
@@ -1428,22 +2177,19 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;h1&gt;計算機程式&lt;/h1&gt;
     &lt;p&gt;第1週教學內容&lt;/p&gt;		
 &lt;/section&gt;
-	
-</t>
+	</t>
 <t tx="ibm.20150918175403.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;課程規劃&lt;/h1&gt;
     &lt;p&gt;教科書&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://openbookproject.net/thinkcs/python/english3e/"&gt;http://openbookproject.net/thinkcs/python/english3e/&lt;/a&gt;
 &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="ibm.20150918175403.9">&lt;section&gt;
     &lt;h1&gt;作業規劃&lt;/h1&gt;
     &lt;p&gt;影片內容&lt;/p&gt;
     &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
 &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="ibm.20150918175711.1">&lt;section&gt;
     &lt;h1&gt;Git 操作&lt;/h1&gt;
     &lt;p&gt;git clone&lt;/p&gt;
@@ -1452,60 +2198,56 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;git add -A&lt;/p&gt;
     &lt;p&gt;git commit -m&lt;/p&gt;
     &lt;p&gt;git push&lt;/p&gt;
-&lt;/section&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="ibm.20150918175951.1">&lt;section&gt;
     &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
     &lt;p&gt;啟動&lt;/p&gt;
     &lt;p&gt;基本執行&lt;/p&gt;
-&lt;/section&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="ibm.20150918181528.1">&lt;section&gt;
     &lt;h1&gt;結論&lt;/h1&gt;
     &lt;p&gt;自主開放學習&lt;/p&gt;
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
-&lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151109003026.1"></t>
+<t tx="leo.20151109003026.2">(uncached) amd.20150915211351.1
+Diff...
+  &lt;!doctype html&gt;
+  &lt;html lang="en"&gt;
+  &lt;head&gt;
+  &lt;meta charset="utf-8"&gt;
+  &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+  &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+  	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+  	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+  	&lt;!--[if lt IE 9]&gt;
+  	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+  	&lt;![endif]--&gt;
+  &lt;/head&gt;
++ &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
++ &lt;/html&gt;
++ &gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
+  @others
 </t>
-<t tx="leo.20151011200539.1">@language xml
-@tabwidth -4
+<t tx="leo.20151109003026.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+&lt;/html&gt;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
 @others
 </t>
-<t tx="leo.20151011200539.10"></t>
-<t tx="leo.20151011200539.2"></t>
-<t tx="leo.20151011200539.3">@others
-</t>
-<t tx="leo.20151011200539.4">@others
-</t>
-<t tx="leo.20151011200539.5">@others
-</t>
-<t tx="leo.20151011200539.6">@others
-</t>
-<t tx="leo.20151011200539.7"></t>
-<t tx="leo.20151011200539.8"></t>
-<t tx="leo.20151011200539.9"></t>
-<t tx="leo.20151011200758.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="leo.20151011200758.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="leo.20151011200758.2">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20151011200758.3">&lt;!doctype html&gt;
+<t tx="leo.20151109003026.4">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1519,21 +2261,128 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151011200758.4">&lt;body&gt;
+<t tx="leo.20151109003155.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151109003155.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151109003155.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151109003155.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151109003155.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151011200758.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151109003155.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151011200758.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151109003155.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151011200758.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151109003155.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151109003155.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151109003155.9">&lt;section&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151109003203.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151109003203.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151109003203.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151109003203.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151109003203.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151109003203.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151109003203.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151109003203.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -1542,7 +2391,24 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151011200758.9">&lt;section&gt;
+<t tx="leo.20151109003203.8"> &lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;筆記內容&lt;/h2&gt;
+    &lt;p&gt;git add&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p&gt;git commit " "&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p&gt;git config --global user name &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p&gt;git config --global user email&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p&gt;git push&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p&gt;git branch&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151109003203.9">&lt;section&gt;
     &lt;h2&gt;心得與分數&lt;/h2&gt;
     &lt;p&gt;經過上一次作業的洗禮，沿用它來做這次的東西，顯得格外上手，花的時間也比上一次來的少，成就感隨之而來。solvespace這個軟體，乍看之下很陽春與粗糙，但是一使用發現，他功能竟然意外的齊全，名副其實的"麻雀雖小，五臟齊全"！&lt;/p&gt;
     &lt;br&gt;
@@ -1551,29 +2417,12 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151108152838.1"> &lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;筆記內容&lt;/h2&gt;
-    &lt;p&gt;git add&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p&gt;git commit " "&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p&gt;git config --global user name &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p&gt;git config --global user email&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p&gt;git push&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p&gt;git branch&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151108170501.1">@language xml
+<t tx="leo.20151109003209.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151108170501.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151109003209.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -1582,14 +2431,14 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151108170501.2">&lt;!--
+<t tx="leo.20151109003209.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151108170501.3">&lt;!doctype html&gt;
+<t tx="leo.20151109003209.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1603,21 +2452,21 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151108170501.4">&lt;body&gt;
+<t tx="leo.20151109003209.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151108170501.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151109003209.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151108170501.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151109003209.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151108170501.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151109003209.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -1626,7 +2475,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151108170501.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151109003209.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;筆記內容&lt;/h2&gt;
     &lt;p&gt;git add&lt;/p&gt;
     &lt;br&gt;
@@ -1643,7 +2492,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151108170501.9">&lt;section&gt;
+<t tx="leo.20151109003209.9">&lt;section&gt;
     &lt;h2&gt;心得與分數&lt;/h2&gt;
     &lt;p&gt;這個軟體其實算不錯用的，我學過Autocad、inventor兩個繪圖軟體，但是這個軟體發現也不遜色那兩種，操作上面也頗為輕鬆，只有再組合上面是很不熟悉，一步一步慢慢來還是會出槌，非常的難搞。&lt;/p&gt;
     &lt;br&gt;
@@ -1652,12 +2501,12 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151108231811.1">@language xml
+<t tx="leo.20151109003215.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151108231811.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151109003215.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -1666,14 +2515,14 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/script&gt;
 	
 </t>
-<t tx="leo.20151108231811.2">&lt;!--
+<t tx="leo.20151109003215.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151108231811.3">&lt;!doctype html&gt;
+<t tx="leo.20151109003215.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1687,21 +2536,21 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151108231811.4">&lt;body&gt;
+<t tx="leo.20151109003215.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151108231811.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151109003215.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151108231811.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151109003215.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151108231811.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151109003215.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
@@ -1710,7 +2559,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151108231811.8">&lt;section id="hw-task-one"&gt;
+<t tx="leo.20151109003215.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;筆記內容&lt;/h2&gt;
     &lt;br&gt;
     &lt;p&gt;不要怕困難&lt;/p&gt;
@@ -1723,7 +2572,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151108231811.9">&lt;section&gt;
+<t tx="leo.20151109003215.9">&lt;section&gt;
     &lt;h2&gt;心得與分數&lt;/h2&gt;
     &lt;p&gt;轉眼間就到期中了，學期到目前為止獲益良多，尤其是接觸到許多不同的繪圖軟體，以及最重要的共同倉儲的推送，而且一步錯、步步錯，必須讓腦袋維持清醒的狀態才能達到最好的效果，接下來的半學期，也要請老師多多指教了。&lt;/p&gt;
     &lt;br&gt;
@@ -1731,196 +2580,6 @@ sudo pip3 install IPython[notebook]==3.2.1
    
 &lt;/section&gt;
 				
-</t>
-<t tx="leo.20151109000854.1"></t>
-<t tx="leo.20151109000854.10">@others
-</t>
-<t tx="leo.20151109000854.11">(uncached) leo.20151011200539.5
-Diff...
-+ &lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-+ &lt;div class="reveal"&gt;
-  @others
-+ &lt;/div&gt;
-</t>
-<t tx="leo.20151109000854.12">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151109000854.13">@others
-</t>
-<t tx="leo.20151109000854.14">(uncached) leo.20151011200539.6
-Diff...
-+ &lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-+ &lt;div class="slides"&gt;
-  @others
-+ &lt;/div&gt;
-</t>
-<t tx="leo.20151109000854.15">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="leo.20151109000854.16">@others
-</t>
-<t tx="leo.20151109000854.17">(uncached) leo.20151011200539.7
-Diff...
-+ &lt;!-- 以下為投影片 --&gt;
-+ &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-+ &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-+ &lt;section&gt;
-+     &lt;h2&gt;四設計二乙&lt;/h2&gt;
-+     &lt;p&gt;40323256 錢柏辰&lt;/p&gt;		
-+ &lt;/section&gt;
-+ 	
-</t>
-<t tx="leo.20151109000854.18">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;四設計二乙&lt;/h2&gt;
-    &lt;p&gt;40323256 錢柏辰&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151109000854.19"></t>
-<t tx="leo.20151109000854.2">(uncached) leo.20151011200539.2
-Diff...
-+ &lt;!--
-+ 這個檔案展示了 reveal.js 投影片資料的基本架構
-+ 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-+ 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-+ 且支援平行與垂直的投影片配置方法
-+ --&gt;
-</t>
-<t tx="leo.20151109000854.20">(uncached) leo.20151011200539.8
-Diff...
-+ &lt;section id="hw-task-one"&gt;
-+     &lt;h2&gt;筆記內容&lt;/h2&gt;
-+     &lt;p&gt;git add&lt;/p&gt;
-+     &lt;br&gt;
-+     &lt;p&gt;git commit " "&lt;/p&gt;
-+     &lt;br&gt;
-+     &lt;p&gt;git config --global user name &lt;/p&gt;
-+     &lt;br&gt;
-+     &lt;p&gt;git config --global user email&lt;/p&gt;
-+     &lt;br&gt;
-+     &lt;p&gt;git push&lt;/p&gt;
-+     &lt;br&gt;
-+     &lt;p&gt;git branch&lt;/p&gt;
-+    
-+ &lt;/section&gt;
-+ 				
-</t>
-<t tx="leo.20151109000854.21">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;筆記內容&lt;/h2&gt;
-    &lt;p&gt;git add&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p&gt;git commit " "&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p&gt;git config --global user name &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p&gt;git config --global user email&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p&gt;git push&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p&gt;git branch&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151109000854.22"></t>
-<t tx="leo.20151109000854.23">(uncached) leo.20151011200539.9
-Diff...
-+ &lt;section&gt;
-+     &lt;h2&gt;心得與分數&lt;/h2&gt;
-+     &lt;p&gt;上課到現在為止git clone推回去的方法上學期有教過所以並不陌生，但是一教git branch就直接整個亂掉，希望步調可以再慢一些些，東西慢慢地給，也多給我們實際操作的時間。&lt;/p&gt;
-+     &lt;br&gt;
-+     &lt;p&gt;自評分數 : 65&lt;/p&gt;
-+    
-+ &lt;/section&gt;
-+ 				
-</t>
-<t tx="leo.20151109000854.24">&lt;section&gt;
-    &lt;h2&gt;心得與分數&lt;/h2&gt;
-    &lt;p&gt;上課到現在為止git clone推回去的方法上學期有教過所以並不陌生，但是一教git branch就直接整個亂掉，希望步調可以再慢一些些，東西慢慢地給，也多給我們實際操作的時間。&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p&gt;自評分數 : 65&lt;/p&gt;
-   
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151109000854.25"></t>
-<t tx="leo.20151109000854.26">(uncached) leo.20151011200539.10
-Diff...
-+ &lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-+ &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-+ &lt;script&gt;
-+     // 啟動 Reveal.
-+     Reveal.initialize({
-+     });
-+ &lt;/script&gt;
-+ 	
-</t>
-<t tx="leo.20151109000854.27">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="leo.20151109000854.28"></t>
-<t tx="leo.20151109000854.3">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
-<t tx="leo.20151109000854.4"></t>
-<t tx="leo.20151109000854.5">(uncached) leo.20151011200539.3
-Diff...
-+ &lt;!doctype html&gt;
-+ &lt;html lang="en"&gt;
-+ &lt;head&gt;
-+ &lt;meta charset="utf-8"&gt;
-+ &lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-+ &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-+ 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-+ 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-+ 	&lt;!--[if lt IE 9]&gt;
-+ 	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-+ 	&lt;![endif]--&gt;
-+ &lt;/head&gt;
-  @others
-</t>
-<t tx="leo.20151109000854.6">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="leo.20151109000854.7">@others
-</t>
-<t tx="leo.20151109000854.8">(uncached) leo.20151011200539.4
-Diff...
-+ &lt;body&gt;
-  @others
-+ &lt;/body&gt;
-</t>
-<t tx="leo.20151109000854.9">&lt;body&gt;
-@others
-&lt;/body&gt;
 </t>
 </tnodes>
 </leo_file>
