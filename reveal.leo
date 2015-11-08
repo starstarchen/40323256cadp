@@ -36,7 +36,7 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="leo.20151109003118.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151109003118.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="leo.20151109003129.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151109003134.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151109003141.1"><vh>@edit 2015cphww6.md</vh></v>
